@@ -62,18 +62,19 @@
 
 ---
 
-### :zap: Recent Activity
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#2](https://github.com/benihime91/retinanet_pet_detector/pull/2) in [benihime91/retinanet_pet_detector](https://github.com/benihime91/retinanet_pet_detector)
 2. ❌ Closed PR [#1](https://github.com/benihime91/retinanet_pet_detector/pull/1) in [benihime91/retinanet_pet_detector](https://github.com/benihime91/retinanet_pet_detector)
 <!--END_SECTION:activity-->
 
----
+</details>
 
 
 [website]: https://benihime91.github.io/blog/
 [linkedin]: https://www.linkedin.com/in/ayushman-buragohain-2145a7184/
 [instagram]: https://www.instagram.com/_ayushman160_/
 [twitter]: https://twitter.com/Ayushma75139217
-[token]: 65edbf05a1ac2b4787d1fa953cd9108b3ea3addf
+[token]: 65edbf05a1ac2b4787d1fa953cd9108b3ea3addfa
