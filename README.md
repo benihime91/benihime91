@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read thriller and mystery novels
 - 🤔 I’m looking for help with Julia Language
-- 💬 Ask me about TensorFlow2.x
+- 💬 Ask me about TensorFlow2.x, PyTorch
 - 😄 Pronouns: He/him.
 
 ### **Connect with me**:
@@ -42,15 +42,7 @@
 
 ---
 
-### 📕 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](benihime91.github.io/blog/)
-
----
-### ⚡️ **GitHub Stats**
+### ⚡️ **Stats**
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
