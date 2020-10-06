@@ -15,7 +15,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### **Connect with me**:
-
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -59,27 +59,19 @@
 ➡️ [more blog posts...](https://codestackr.com)
 
 ---
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
 
-</details>
+![github stats](https://github-readme-stats-five-murex.vercel.app/api?username=benihime91&show_icons=true&theme=dracula)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats-five-murex.vercel.app/api/top-langs?username=benihime91&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+[![willianrod's wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=Benihime91&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[website]: benihime91.github.io/blog/
 [linkedin]: https://www.linkedin.com/in/ayushman-buragohain-2145a7184/
 [instagram]: https://www.instagram.com/_ayushman160_/
 [twitter]: https://twitter.com/Ayushma75139217
+[token]: 65edbf05a1ac2b4787d1fa953cd9108b3ea3addf
