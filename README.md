@@ -65,6 +65,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#2](https://github.com/benihime91/retinanet_pet_detector/pull/2) in [benihime91/retinanet_pet_detector](https://github.com/benihime91/retinanet_pet_detector)
+2. ❌ Closed PR [#1](https://github.com/benihime91/retinanet_pet_detector/pull/1) in [benihime91/retinanet_pet_detector](https://github.com/benihime91/retinanet_pet_detector)
+<!--END_SECTION:activity-->
 
 ---
 
