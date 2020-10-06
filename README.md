@@ -1,6 +1,12 @@
-### Hi there, I'm Ayushman 👋
+### Hi there 👋 I'm Ayushman 👨‍💻
 
-## I'm an Undergrad student from India !!
+![Website](https://img.shields.io/website?color=%2348DAD0&label=BLOG&logo=Micro.blog&logoColor=%2348DAD0&style=for-the-badge&url=https%3A%2F%2Fbenihime91.github.io%2Fblog%2F)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-buragohain-2145a7184/)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aburagohain160@gmail.com?subject=Hello%20Ayushman,%20From%20Github)
+
+
+
+## I'm an undergrad student, passionate about Deep Learning !!
 
 - 🔭 I am currently working on : [PyTorch RetinaNet](https://github.com/benihime91/pytorch_retinanet)
 - 🌱 I’m currently learning Reinforcement Learning
@@ -54,8 +60,16 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=Benihime91&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
+---
 
-[website]: benihime91.github.io/blog/
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
+
+
+[website]: https://benihime91.github.io/blog/
 [linkedin]: https://www.linkedin.com/in/ayushman-buragohain-2145a7184/
 [instagram]: https://www.instagram.com/_ayushman160_/
 [twitter]: https://twitter.com/Ayushma75139217
