@@ -74,15 +74,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
 
 [website]: https://benihime91.github.io/blog/
 [linkedin]: https://www.linkedin.com/in/ayushman-buragohain-2145a7184/
