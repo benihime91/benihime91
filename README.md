@@ -72,7 +72,7 @@
 
 [![Top Langs](https://github-readme-stats-five-murex.vercel.app/api/top-langs?username=benihime91&&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=Benihime91&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=Benihime91&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -80,8 +80,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/benihime91/retinanet_pet_detector/pull/2) in [benihime91/retinanet_pet_detector](https://github.com/benihime91/retinanet_pet_detector)
-2. ❌ Closed PR [#1](https://github.com/benihime91/retinanet_pet_detector/pull/1) in [benihime91/retinanet_pet_detector](https://github.com/benihime91/retinanet_pet_detector)
+
 <!--END_SECTION:activity-->
 
 </details>
