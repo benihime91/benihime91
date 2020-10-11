@@ -72,8 +72,6 @@
 
 [![Top Langs](https://github-readme-stats-five-murex.vercel.app/api/top-langs?username=benihime91&&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=Benihime91&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <details>
