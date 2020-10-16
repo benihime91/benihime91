@@ -70,7 +70,9 @@
 ![github stats](https://github-readme-stats-five-murex.vercel.app/api?username=benihime91&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats-five-murex.vercel.app/api/top-langs?username=benihime91&&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-five-murex.vercel.app/api/top-langs?username=benihime91&&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=Benihime91)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
