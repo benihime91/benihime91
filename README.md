@@ -67,12 +67,12 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
 
-![github stats](https://github-readme-stats-five-murex.vercel.app/api?username=benihime91&show_icons=true)
+![github stats](https://github-readme-stats-five-murex.vercel.app/api?username=benihime91&show_icons=true&theme=react)
 
 
-[![Top Langs](https://github-readme-stats-five-murex.vercel.app/api/top-langs?username=benihime91)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-five-murex.vercel.app/api/top-langs?username=benihime91&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=benihime91)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=benihime91&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
