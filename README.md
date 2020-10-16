@@ -74,6 +74,8 @@
 
 [![wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=benihime91)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [website]: https://benihime91.github.io/blog/
