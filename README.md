@@ -72,7 +72,7 @@
 
 [![Top Langs](https://github-readme-stats-five-murex.vercel.app/api/top-langs?username=benihime91)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=@benihime91)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=benihime91)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
