@@ -73,9 +73,6 @@
   <img align="center" src="https://github-readme-stats-five-murex.vercel.app/api/top-langs?username=benihime91&layout=compact&theme=react"/>
 </a>
 
-[![wakatime stats](https://github-readme-stats-five-murex.vercel.app/api/wakatime?username=benihime91&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 [website]: https://benihime91.github.io/blog/
 [linkedin]: https://www.linkedin.com/in/ayushman-buragohain-2145a7184/
