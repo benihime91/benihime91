@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/website?color=%2348DAD0&label=BLOG&logo=Micro.blog&logoColor=%2348DAD0&style=for-the-badge&url=https%3A%2F%2Fbenihime91.github.io%2Fblog%2F)](https://benihime91.github.io/blog/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-buragohain-2145a7184/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aburagohain160@gmail.com?subject=Hello%20Ayushman,%20From%20Github)
+![Views](https://komarev.com/ghpvc/?username=benihime91&color=blue)
 
 
 
