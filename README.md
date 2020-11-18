@@ -16,9 +16,6 @@
 - 🤔 I’m looking for help with Julia Language
 - 💬 Ask me about TensorFlow2.x, PyTorch
 - 😄 Pronouns: He/him.
-<br />
-<br />
-
 ---
 
 ### **Connect with me**:
@@ -26,9 +23,6 @@
 [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-<br />
-
 ---
 
 ### **Languages and Tools**:
@@ -49,7 +43,6 @@
 <img align="left" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://simpleicons.org/icons/github.svg" />
 
-
 [python]: https://www.python.org/
 [julia]: https://julialang.org/
 [c_lang]:https://en.wikipedia.org/wiki/C_(programming_language)
@@ -61,9 +54,6 @@
 [pandas]: https://pandas.pydata.org/
 [latex]: https://www.latex-project.org/
 [markdown]: https://www.markdownguide.org/
-
-
-<br />
 <br />
 
 ---
