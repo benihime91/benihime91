@@ -16,14 +16,18 @@
 - 🤔 I’m looking for help with Julia Language
 - 💬 Ask me about TensorFlow2.x, PyTorch
 - 😄 Pronouns: He/him.
----
+
 
 ### **Connect with me**:
 [<img align="left" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
----
+
+<br />
+<br />
+
+
 
 ### **Languages and Tools**:
 
@@ -54,9 +58,9 @@
 [pandas]: https://pandas.pydata.org/
 [latex]: https://www.latex-project.org/
 [markdown]: https://www.markdownguide.org/
-<br />
 
----
+<br />
+<br />
 
 ### ⚡️ **Stats**
 
