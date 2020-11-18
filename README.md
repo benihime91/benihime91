@@ -43,6 +43,10 @@
 <img align="left" alt="HTML5" width="30px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://simpleicons.org/icons/github.svg" />
+<br />
+<br />
+
+---
 
 
 [python]: https://www.python.org/
