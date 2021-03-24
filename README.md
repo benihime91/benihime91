@@ -9,7 +9,7 @@
 
 ## I'm an undergrad student, passionate about Deep Learning !!
 
-- 🔭 I am currently working on : [LightningCV](https://github.com/benihime91/lightning_cv)
+- 🔭 I am currently working on : [Gale](https://github.com/benihime91/gale)
 - 🌱 I’m currently learning Reinforcement Learning
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read thriller and mystery novels
