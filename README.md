@@ -37,7 +37,6 @@
 [<img align="left" alt="TensorFlow" width="30px" src="https://simpleicons.org/icons/tensorflow.svg" />][tf]
 [<img align="left" alt="keras" width="30px" src="https://simpleicons.org/icons/keras.svg" />][keras]
 [<img align="left" alt="PyTorch" width="30px" src="https://simpleicons.org/icons/pytorch.svg"/>][torch]
-[<img align="left" alt="Scikit-Learn" width="30px" src="https://simpleicons.org/icons/scikit-learn.svg"/>][sk_learn]
 [<img align="left" alt="NumPy" width="30px" src="https://simpleicons.org/icons/numpy.svg"/>][numpy]
 [<img align="left" alt="Pandas" width="30px" src="https://simpleicons.org/icons/pandas.svg"/>][pandas]
 [<img align="left" alt="Latex" width="30px" src="https://simpleicons.org/icons/latex.svg" />][latex]
