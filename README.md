@@ -9,7 +9,7 @@
 
 ## I'm an undergrad student, passionate about Deep Learning !!
 
-- 🔭 I am currently working on : [Gale](https://github.com/benihime91/gale)
+- 🔭 I am currently working on : Becoming a Kaggle Compeitions GrandMaster
 - 🌱 I’m currently learning Reinforcement Learning
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read thriller and mystery novels
