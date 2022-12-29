@@ -1,69 +1,23 @@
-## Hi there 👋 I'm Ayushman 👨‍💻
+# Hi there 👋 I'm Ayushman 👨‍💻
 
-[![Website](https://img.shields.io/website?color=%2348DAD0&label=BLOG&logo=Micro.blog&logoColor=%2348DAD0&style=for-the-badge&url=https%3A%2F%2Fbenihime91.github.io%2Fblog%2F)](https://benihime91.github.io/blog/)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-buragohain-2145a7184/)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:aburagohain160@gmail.com?subject=Hello%20Ayushman,%20From%20Github)
-![Views](https://komarev.com/ghpvc/?username=benihime91&color=blue)
+# 💫 About Me:
+🔭 I’m currently working on becoming a kaggle compeitions grandmaster<br>👯 I’m looking to collaborate on computer vision problems<br>🌱 I’m currently learning about Rust language<br>💬 Ask me about TensorFlow2.x, PyTorch<br>⚡ Fun fact: I love to read thriller and mystery novels<br>😄 Pronouns: He/him
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushman-buragohain-2145a7184) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__hsuya) 
 
-## I'm an undergrad student, passionate about Deep Learning !!
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=benihime91&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=benihime91&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=benihime91&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I am currently working on : Becoming a Kaggle Compeitions GrandMaster
-- 🌱 I’m currently learning Reinforcement Learning
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read thriller and mystery novels
-- 🤔 I’m looking for help with Julia Language
-- 💬 Ask me about TensorFlow2.x, PyTorch
-- 😄 Pronouns: He/him.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=benihime91&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### **Connect with me**:
-[<img align="left" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-
-
-
-### **Languages and Tools**:
-
-[<img align="left" alt="Python" width="30px" src="https://simpleicons.org/icons/python.svg" />][python]
-[<img align="left" alt="Julia" width="30px" src="https://simpleicons.org/icons/julia.svg">][julia]
-[<img align="left" alt="C" width="30px" src="https://simpleicons.org/icons/c.svg">][c_lang]
-[<img align="left" alt="TensorFlow" width="30px" src="https://simpleicons.org/icons/tensorflow.svg" />][tf]
-[<img align="left" alt="keras" width="30px" src="https://simpleicons.org/icons/keras.svg" />][keras]
-[<img align="left" alt="PyTorch" width="30px" src="https://simpleicons.org/icons/pytorch.svg"/>][torch]
-[<img align="left" alt="NumPy" width="30px" src="https://simpleicons.org/icons/numpy.svg"/>][numpy]
-[<img align="left" alt="Pandas" width="30px" src="https://simpleicons.org/icons/pandas.svg"/>][pandas]
-[<img align="left" alt="Latex" width="30px" src="https://simpleicons.org/icons/latex.svg" />][latex]
-[<img align="left" alt="Markdown" width="30px" src="https://simpleicons.org/icons/markdown.svg" />][markdown]
-<img align="left" alt="Visual Studio Code" width="30px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://simpleicons.org/icons/html5.svg" />
-<img align="left" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://simpleicons.org/icons/github.svg" />
-
-[python]: https://www.python.org/
-[julia]: https://julialang.org/
-[c_lang]:https://en.wikipedia.org/wiki/C_(programming_language)
-[tf]: https://www.tensorflow.org/
-[keras]: https://keras.io/
-[torch]: https://pytorch.org/
-[sk_learn]: [https://scikit-learn.org/
-[numpy]: https://numpy.org/
-[pandas]: https://pandas.pydata.org/
-[latex]: https://www.latex-project.org/
-[markdown]: https://www.markdownguide.org/
-
-<br />
-<br />
-
-[website]: https://benihime91.github.io/blog/
-[linkedin]: https://www.linkedin.com/in/ayushman-buragohain-2145a7184/
-[instagram]: https://www.instagram.com/_ayushman160_/
-[twitter]: https://twitter.com/Ayushma75139217
-[token]: 65edbf05a1ac2b4787d1fa953cd9108b3ea3addf
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
